@@ -1,0 +1,8 @@
+C:\Revature\Jalen-Gordon-coding-challenge-1\CodingChallenge1\PalindromeTestLib\bin\Debug\netcoreapp3.1\PalindromeTestLib.deps.json
+C:\Revature\Jalen-Gordon-coding-challenge-1\CodingChallenge1\PalindromeTestLib\bin\Debug\netcoreapp3.1\PalindromeTestLib.dll
+C:\Revature\Jalen-Gordon-coding-challenge-1\CodingChallenge1\PalindromeTestLib\bin\Debug\netcoreapp3.1\PalindromeTestLib.pdb
+C:\Revature\Jalen-Gordon-coding-challenge-1\CodingChallenge1\PalindromeTestLib\obj\Debug\netcoreapp3.1\PalindromeTestLib.csprojAssemblyReference.cache
+C:\Revature\Jalen-Gordon-coding-challenge-1\CodingChallenge1\PalindromeTestLib\obj\Debug\netcoreapp3.1\PalindromeTestLib.AssemblyInfoInputs.cache
+C:\Revature\Jalen-Gordon-coding-challenge-1\CodingChallenge1\PalindromeTestLib\obj\Debug\netcoreapp3.1\PalindromeTestLib.AssemblyInfo.cs
+C:\Revature\Jalen-Gordon-coding-challenge-1\CodingChallenge1\PalindromeTestLib\obj\Debug\netcoreapp3.1\PalindromeTestLib.dll
+C:\Revature\Jalen-Gordon-coding-challenge-1\CodingChallenge1\PalindromeTestLib\obj\Debug\netcoreapp3.1\PalindromeTestLib.pdb
